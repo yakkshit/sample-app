@@ -15,8 +15,8 @@ export default createBoard({
     Board: () => <Webcard images={imageUrls} />,
     isSnippet: true,
     environmentProps: {
-        windowWidth: 772,
+        windowWidth: 816,
         canvasHeight: 250,
-        canvasWidth: 688,
+        canvasWidth: 672,
     },
 });
